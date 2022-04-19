@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "name": "Men's T-shirt",
+      "description": "Justo nec ultrices dui sapien eget mi proin sed libero enim sed faucibus",
+      "price": 11500,
+      "image": "https://i5.walmartimages.com/asr/27a1eff9-ec2b-4386-95e1-c4c5dc010601_1.80b101788c1917991715e0f90b0922d1.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "size": "xl",
+      "color": "blue",
+      "id": 2
+    },
+
+    {
+      "name": "Men's T-shirt",
+      "desc": "Justo nec ultrices dui sapien eget mi proin sed libero",
+      "price": 18800,
+      "image": "https://cottonon.com/dw/image/v2/BBDS_PRD/on/demandware.static/-/Sites-catalog-master-men/default/dw385a069a/3611288/3611288-01-2.jpg?sw=400&sh=600&sm=fit",
+      "color": "blue",
+      "size": "m",
+      "id": 10
+    },
+    {
+      "name": "Men's T-shirt",
+      "description": "Justo nec ultrices dui sapien eget mi proin sed libero enim sed faucibus turpis in eu mi bibendum",
+      "price": 13700,
+      "image": "https://images.ctfassets.net/40akseett7bn/7jvmfDWiy0b3fRvXhmfN7L/feaa00918d05cfe9a1f4ea9f792b3894/tri-blend-t-shirt_mens_bubble.jpeg",
+      "color": "white",
+      "size": "xl",
+      "id": 11
+    },
+    {
+      "name": "Men's T-shirt",
+      "description": "Justo nec ultrices dui sapien eget mi proin sed libero enim sed faucibus ",
+      "price": 16400,
+      "image": "https://cdn.shopify.com/s/files/1/0266/6276/4597/products/300865964INDIGO_2_1024x1024.jpg?v=1637582856",
+      "size": "l",
+      "color": "blue",
+      "id": 12
+    },
+    {
+      "name": "Men's T-shirt",
+      "description": "Justo nec ultrices dui sapien eget mi proin sed libero enim sed",
+      "price": 10900,
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/809ba3cf-f2be-4626-927b-d730b12f7af1/jordan-jumpman-t-shirt-J2Sbgc.png",
+      "color": "black",
+      "size": "xxl",
+      "id": 13
+    },
+    {
+      "name": "Men's T-shirt",
+      "description": "Justo nec ultrices dui sapien eget mi proin sed libero enim sed faucibus turpis",
+      "price": 13300,
+      "image": "http://cdn.shopify.com/s/files/1/0038/1111/5123/collections/IMG2_2168.jpg?v=1638894357",
+      "color": "white",
+      "size": "l",
+      "id": 14
+    },
+    {
+      "name": "Men's T-shirt",
+      "description": "Justo nec ultrices dui sapien eget mi proin sed libero enim",
+      "price": 18400,
+      "image": "https://lp2.hm.com/hmgoepprod?set=source[/b0/93/b09374bf63d15775acd85f0fb33a79ea7e7e8875.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+      "color": "white",
+      "size": "xxl",
+      "id": 15
+    },
+    {
+      "name": "Men's T-shirt",
+      "description": "Justo nec ultrices dui sapien eget mi proin sed libero enim sed",
+      "price": 13500,
+      "image": "https://media.everlane.com/image/upload/c_fill,dpr_2,f_auto,g_face:center,q_auto,w_auto/v1/i/2af396e4_ead7.jpg",
+      "color": "blue",
+      "size": "xxl",
+      "id": 16
+    }
+  ]
+}
